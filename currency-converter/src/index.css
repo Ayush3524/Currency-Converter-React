@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #e5ceea;
+    box-sizing: border-box;
+    font-family: "Urbanist";
+    line-height: 1.2;
+}
